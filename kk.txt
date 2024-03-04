@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        // Création d'un objet Scanner pour lire l'entrée utilisateur
+        Scanner scanner = new Scanner(System.in);
+
+        // Demande à l'utilisateur son nom
+        System.out.print("Entrez votre nom : ");
+        String nom = scanner.nextLine();
+
+        // Affiche un message de salutation avec le nom de l'utilisateur
+        System.out.println("Bonjour, " + nom + "! Bienvenue en Java !");
+        
+        // Ferme le scanner pour éviter les fuites de ressources
+        scanner.close();
+    }
+}
