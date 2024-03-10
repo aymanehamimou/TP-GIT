@@ -13,10 +13,7 @@ public class Main {
         System.out.println("Bonjour, " + nom + "! Bienvenue en Java !");
         
         // Ferme le scanner pour éviter les fuites de ressources
-        77777777777777777777777777777777777
-
-
-waaaaaaaaaaaaaaaaa hmadi 
+ kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 
     }
 }
